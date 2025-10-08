@@ -303,6 +303,14 @@
     "Replacement model": "",
     "Type": "Image and video"
   },
+  "Image and video||gpt-image-1-mini||2025-10-06": {
+    "Model": "gpt-image-1-mini",
+    "Version": "2025-10-06",
+    "Lifecycle status": "Preview",
+    "Retirement date": "No earlier than October 6, 2026",
+    "Replacement model": "",
+    "Type": "Image and video"
+  },
   "Image and video||sora||2025-05-02": {
     "Model": "sora",
     "Version": "2025-05-02",
