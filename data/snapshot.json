@@ -11,7 +11,7 @@
     "Model": "computer-use-preview",
     "Version": "2025-03-11",
     "Lifecycle status": "Preview",
-    "Retirement date": "No earlier than October 10, 2025",
+    "Retirement date": "No earlier than January 14, 2026",
     "Replacement model": "",
     "Type": "Text"
   },
@@ -211,7 +211,7 @@
     "Model": "gpt-4o-audio-preview",
     "Version": "2024-12-17",
     "Lifecycle status": "Preview",
-    "Retirement date": "No earlier than September 17, 2025",
+    "Retirement date": "November 13, 2025",
     "Replacement model": "",
     "Type": "Audio"
   },
@@ -219,7 +219,7 @@
     "Model": "gpt-4o-mini-realtime-preview",
     "Version": "2024-12-17",
     "Lifecycle status": "Preview",
-    "Retirement date": "No earlier than September 17, 2025",
+    "Retirement date": "November 13, 2025",
     "Replacement model": "",
     "Type": "Audio"
   },
@@ -227,7 +227,7 @@
     "Model": "gpt-4o-mini-transcribe",
     "Version": "2025-03-20",
     "Lifecycle status": "Preview",
-    "Retirement date": "No earlier than September 17, 2025",
+    "Retirement date": "No earlier than January 14, 2026",
     "Replacement model": "",
     "Type": "Audio"
   },
@@ -235,7 +235,7 @@
     "Model": "gpt-4o-mini-tts",
     "Version": "2025-03-20",
     "Lifecycle status": "Preview",
-    "Retirement date": "No earlier than September 17, 2025",
+    "Retirement date": "No earlier than January 14, 2026",
     "Replacement model": "",
     "Type": "Audio"
   },
@@ -243,7 +243,7 @@
     "Model": "gpt-4o-realtime-preview",
     "Version": "2024-12-17",
     "Lifecycle status": "Preview",
-    "Retirement date": "No earlier than September 17, 2025",
+    "Retirement date": "November 13, 2025",
     "Replacement model": "",
     "Type": "Audio"
   },
@@ -251,7 +251,7 @@
     "Model": "gpt-4o-realtime-preview",
     "Version": "2025-06-03",
     "Lifecycle status": "Preview",
-    "Retirement date": "No earlier than September 1, 2025",
+    "Retirement date": "November 13, 2025",
     "Replacement model": "",
     "Type": "Audio"
   },
@@ -259,7 +259,7 @@
     "Model": "gpt-4o-transcribe",
     "Version": "2025-03-20",
     "Lifecycle status": "Preview",
-    "Retirement date": "No earlier than September 17, 2025",
+    "Retirement date": "No earlier than January 14, 2026",
     "Replacement model": "",
     "Type": "Audio"
   },
@@ -307,7 +307,7 @@
     "Model": "sora",
     "Version": "2025-05-02",
     "Lifecycle status": "Preview",
-    "Retirement date": "No earlier than October 15, 2025",
+    "Retirement date": "No earlier than February 15, 2026",
     "Replacement model": "",
     "Type": "Image and video"
   },
