@@ -5,61 +5,13 @@
     <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements</link>
     <description>RSS feed of changes (new rows or field updates) detected in the 'Current models' tables.</description>
     <language>en-us</language>
-    <pubDate>Wed, 08 Oct 2025 06:03:54 +0000</pubDate>
+    <pubDate>Wed, 08 Oct 2025 18:03:58 +0000</pubDate>
     <item>
-      <title>Updated fields for [Text] computer-use-preview 2025-03-11: Retirement date: 'No earlier than October 10, 2025' → 'No earlier than January 14, 2026'</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
-      <guid isPermaLink="false">Text|computer-use-preview|2025-03-11|7886554614881418061</guid>
-      <pubDate>Wed, 08 Oct 2025 06:03:54 +0000</pubDate>
-      <description>Retirement date: 'No earlier than October 10, 2025' → 'No earlier than January 14, 2026'</description>
-    </item>    <item>
-      <title>Updated fields for [Audio] gpt-4o-audio-preview 2024-12-17: Retirement date: 'No earlier than September 17, 2025' → 'November 13, 2025'</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
-      <guid isPermaLink="false">Audio|gpt-4o-audio-preview|2024-12-17|7095224924655964343</guid>
-      <pubDate>Wed, 08 Oct 2025 06:03:54 +0000</pubDate>
-      <description>Retirement date: 'No earlier than September 17, 2025' → 'November 13, 2025'</description>
-    </item>    <item>
-      <title>Updated fields for [Audio] gpt-4o-mini-realtime-preview 2024-12-17: Retirement date: 'No earlier than September 17, 2025' → 'November 13, 2025'</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
-      <guid isPermaLink="false">Audio|gpt-4o-mini-realtime-preview|2024-12-17|7079829848942776861</guid>
-      <pubDate>Wed, 08 Oct 2025 06:03:54 +0000</pubDate>
-      <description>Retirement date: 'No earlier than September 17, 2025' → 'November 13, 2025'</description>
-    </item>    <item>
-      <title>Updated fields for [Audio] gpt-4o-mini-transcribe 2025-03-20: Retirement date: 'No earlier than September 17, 2025' → 'No earlier than January 14, 2026'</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
-      <guid isPermaLink="false">Audio|gpt-4o-mini-transcribe|2025-03-20|-2162231700967708339</guid>
-      <pubDate>Wed, 08 Oct 2025 06:03:54 +0000</pubDate>
-      <description>Retirement date: 'No earlier than September 17, 2025' → 'No earlier than January 14, 2026'</description>
-    </item>    <item>
-      <title>Updated fields for [Audio] gpt-4o-mini-tts 2025-03-20: Retirement date: 'No earlier than September 17, 2025' → 'No earlier than January 14, 2026'</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
-      <guid isPermaLink="false">Audio|gpt-4o-mini-tts|2025-03-20|5855868584126165831</guid>
-      <pubDate>Wed, 08 Oct 2025 06:03:54 +0000</pubDate>
-      <description>Retirement date: 'No earlier than September 17, 2025' → 'No earlier than January 14, 2026'</description>
-    </item>    <item>
-      <title>Updated fields for [Audio] gpt-4o-realtime-preview 2024-12-17: Retirement date: 'No earlier than September 17, 2025' → 'November 13, 2025'</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
-      <guid isPermaLink="false">Audio|gpt-4o-realtime-preview|2024-12-17|1658968734566028651</guid>
-      <pubDate>Wed, 08 Oct 2025 06:03:54 +0000</pubDate>
-      <description>Retirement date: 'No earlier than September 17, 2025' → 'November 13, 2025'</description>
-    </item>    <item>
-      <title>Updated fields for [Audio] gpt-4o-realtime-preview 2025-06-03: Retirement date: 'No earlier than September 1, 2025' → 'November 13, 2025'</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
-      <guid isPermaLink="false">Audio|gpt-4o-realtime-preview|2025-06-03|-7287420647923008747</guid>
-      <pubDate>Wed, 08 Oct 2025 06:03:54 +0000</pubDate>
-      <description>Retirement date: 'No earlier than September 1, 2025' → 'November 13, 2025'</description>
-    </item>    <item>
-      <title>Updated fields for [Audio] gpt-4o-transcribe 2025-03-20: Retirement date: 'No earlier than September 17, 2025' → 'No earlier than January 14, 2026'</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
-      <guid isPermaLink="false">Audio|gpt-4o-transcribe|2025-03-20|3891362514647009455</guid>
-      <pubDate>Wed, 08 Oct 2025 06:03:54 +0000</pubDate>
-      <description>Retirement date: 'No earlier than September 17, 2025' → 'No earlier than January 14, 2026'</description>
-    </item>    <item>
-      <title>Updated fields for [Image and video] sora 2025-05-02: Retirement date: 'No earlier than October 15, 2025' → 'No earlier than February 15, 2026'</title>
+      <title>New model listed in Current models: [Image and video] gpt-image-1-mini 2025-10-06</title>
       <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=image</link>
-      <guid isPermaLink="false">Image and video|sora|2025-05-02|6843903005736827574</guid>
-      <pubDate>Wed, 08 Oct 2025 06:03:54 +0000</pubDate>
-      <description>Retirement date: 'No earlier than October 15, 2025' → 'No earlier than February 15, 2026'</description>
+      <guid isPermaLink="false">Image and video|gpt-image-1-mini|2025-10-06|2600970834391627968</guid>
+      <pubDate>Wed, 08 Oct 2025 18:03:58 +0000</pubDate>
+      <description>New row detected in Current models table.</description>
     </item>
   </channel>
 </rss>
