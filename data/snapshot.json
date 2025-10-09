@@ -306,7 +306,7 @@
   "Image and video||gpt-image-1-mini||2025-10-06": {
     "Model": "gpt-image-1-mini",
     "Version": "2025-10-06",
-    "Lifecycle status": "Preview",
+    "Lifecycle status": "GA",
     "Retirement date": "No earlier than October 6, 2026",
     "Replacement model": "",
     "Type": "Image and video"
