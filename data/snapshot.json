@@ -231,6 +231,14 @@
     "Replacement model": "",
     "Type": "Audio"
   },
+  "Audio||gpt-4o-mini-transcribe-diarize||2025-03-20": {
+    "Model": "gpt-4o-mini-transcribe-diarize",
+    "Version": "2025-03-20",
+    "Lifecycle status": "Preview",
+    "Retirement date": "No earlier than January 14, 2026",
+    "Replacement model": "",
+    "Type": "Audio"
+  },
   "Audio||gpt-4o-mini-tts||2025-03-20": {
     "Model": "gpt-4o-mini-tts",
     "Version": "2025-03-20",
