@@ -299,7 +299,7 @@
     "Model": "dalle-3",
     "Version": "3",
     "Lifecycle status": "Generally Available",
-    "Retirement date": "No earlier than October 31, 2025",
+    "Retirement date": "No earlier than January 31, 2026",
     "Replacement model": "",
     "Type": "Image and video"
   },
@@ -307,7 +307,7 @@
     "Model": "gpt-image-1",
     "Version": "2025-04-15",
     "Lifecycle status": "Preview",
-    "Retirement date": "No earlier than October 31, 2025",
+    "Retirement date": "No earlier than January 31, 2026",
     "Replacement model": "",
     "Type": "Image and video"
   },

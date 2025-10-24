@@ -5,7 +5,19 @@
     <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements</link>
     <description>RSS feed of changes (new rows or field updates) detected in the 'Current models' tables.</description>
     <language>en-us</language>
-    <pubDate>Thu, 23 Oct 2025 18:03:55 +0000</pubDate>
-
+    <pubDate>Fri, 24 Oct 2025 06:03:51 +0000</pubDate>
+    <item>
+      <title>Updated fields for [Image and video] dalle-3 3: Retirement date: 'No earlier than October 31, 2025' → 'No earlier than January 31, 2026'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=image</link>
+      <guid isPermaLink="false">Image and video|dalle-3|3|-3685493731252520824</guid>
+      <pubDate>Fri, 24 Oct 2025 06:03:51 +0000</pubDate>
+      <description>Retirement date: 'No earlier than October 31, 2025' → 'No earlier than January 31, 2026'</description>
+    </item>    <item>
+      <title>Updated fields for [Image and video] gpt-image-1 2025-04-15: Retirement date: 'No earlier than October 31, 2025' → 'No earlier than January 31, 2026'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=image</link>
+      <guid isPermaLink="false">Image and video|gpt-image-1|2025-04-15|-1286263248607423834</guid>
+      <pubDate>Fri, 24 Oct 2025 06:03:51 +0000</pubDate>
+      <description>Retirement date: 'No earlier than October 31, 2025' → 'No earlier than January 31, 2026'</description>
+    </item>
   </channel>
 </rss>
