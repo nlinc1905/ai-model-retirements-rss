@@ -5,7 +5,73 @@
     <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements</link>
     <description>RSS feed of changes (new rows or field updates) detected in the 'Current models' tables.</description>
     <language>en-us</language>
-    <pubDate>Fri, 14 Nov 2025 18:03:51 +0000</pubDate>
-
+    <pubDate>Sat, 15 Nov 2025 06:03:39 +0000</pubDate>
+    <item>
+      <title>Updated fields for [Text] gpt-35-turbo 0125: Retirement date: 'November 11, 2025' → 'November 14, 2025'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+      <guid isPermaLink="false">Text|gpt-35-turbo|0125|-7748714455686179926</guid>
+      <pubDate>Sat, 15 Nov 2025 06:03:39 +0000</pubDate>
+      <description>Retirement date: 'November 11, 2025' → 'November 14, 2025'</description>
+    </item>    <item>
+      <title>Updated fields for [Text] gpt-35-turbo 1106: Retirement date: 'November 11, 2025' → 'November 14, 2025'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+      <guid isPermaLink="false">Text|gpt-35-turbo|1106|3326733902218818401</guid>
+      <pubDate>Sat, 15 Nov 2025 06:03:39 +0000</pubDate>
+      <description>Retirement date: 'November 11, 2025' → 'November 14, 2025'</description>
+    </item>    <item>
+      <title>Updated fields for [Text] gpt-4 turbo-2024-04-09: Retirement date: 'November 11, 2025' → 'November 14, 2025'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+      <guid isPermaLink="false">Text|gpt-4|turbo-2024-04-09|4288641985095622582</guid>
+      <pubDate>Sat, 15 Nov 2025 06:03:39 +0000</pubDate>
+      <description>Retirement date: 'November 11, 2025' → 'November 14, 2025'</description>
+    </item>    <item>
+      <title>Updated fields for [Text] gpt-5-chat 2025-08-07: Retirement date: 'No earlier than November 15, 2025' → 'No earlier than January 29, 2026'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+      <guid isPermaLink="false">Text|gpt-5-chat|2025-08-07|-4347634895393033292</guid>
+      <pubDate>Sat, 15 Nov 2025 06:03:39 +0000</pubDate>
+      <description>Retirement date: 'No earlier than November 15, 2025' → 'No earlier than January 29, 2026'</description>
+    </item>    <item>
+      <title>New model listed in Current models: [Text] gpt-5-chat 2025-10-03</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+      <guid isPermaLink="false">Text|gpt-5-chat|2025-10-03|4043870063055507747</guid>
+      <pubDate>Sat, 15 Nov 2025 06:03:39 +0000</pubDate>
+      <description>New row detected in Current models table.</description>
+    </item>    <item>
+      <title>Updated fields for [Text] model-router 2025-05-19: Retirement date: 'No earlier than November 30, 2025' → 'No earlier than March 31, 2026'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+      <guid isPermaLink="false">Text|model-router|2025-05-19|-4488079350193392756</guid>
+      <pubDate>Sat, 15 Nov 2025 06:03:39 +0000</pubDate>
+      <description>Retirement date: 'No earlier than November 30, 2025' → 'No earlier than March 31, 2026'</description>
+    </item>    <item>
+      <title>Updated fields for [Text] model-router 2025-08-07: Retirement date: 'No earlier than November 30, 2025' → 'No earlier than March 31, 2026'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+      <guid isPermaLink="false">Text|model-router|2025-08-07|-5178243175230710184</guid>
+      <pubDate>Sat, 15 Nov 2025 06:03:39 +0000</pubDate>
+      <description>Retirement date: 'No earlier than November 30, 2025' → 'No earlier than March 31, 2026'</description>
+    </item>    <item>
+      <title>Updated fields for [Audio] gpt-4o-audio-preview 2024-12-17: Retirement date: 'November 13, 2025' → 'February 2, 2026'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+      <guid isPermaLink="false">Audio|gpt-4o-audio-preview|2024-12-17|566557991654351510</guid>
+      <pubDate>Sat, 15 Nov 2025 06:03:39 +0000</pubDate>
+      <description>Retirement date: 'November 13, 2025' → 'February 2, 2026'</description>
+    </item>    <item>
+      <title>Updated fields for [Audio] gpt-4o-mini-realtime-preview 2024-12-17: Retirement date: 'November 13, 2025' → 'February 2, 2026'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+      <guid isPermaLink="false">Audio|gpt-4o-mini-realtime-preview|2024-12-17|-7631381067877153083</guid>
+      <pubDate>Sat, 15 Nov 2025 06:03:39 +0000</pubDate>
+      <description>Retirement date: 'November 13, 2025' → 'February 2, 2026'</description>
+    </item>    <item>
+      <title>Updated fields for [Audio] gpt-4o-realtime-preview 2024-12-17: Retirement date: 'November 13, 2025' → 'February 2, 2026'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+      <guid isPermaLink="false">Audio|gpt-4o-realtime-preview|2024-12-17|2978909762724567374</guid>
+      <pubDate>Sat, 15 Nov 2025 06:03:39 +0000</pubDate>
+      <description>Retirement date: 'November 13, 2025' → 'February 2, 2026'</description>
+    </item>    <item>
+      <title>Updated fields for [Audio] gpt-4o-realtime-preview 2025-06-03: Retirement date: 'November 13, 2025' → 'November 17, 2025'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+      <guid isPermaLink="false">Audio|gpt-4o-realtime-preview|2025-06-03|-5701929881941082583</guid>
+      <pubDate>Sat, 15 Nov 2025 06:03:39 +0000</pubDate>
+      <description>Retirement date: 'November 13, 2025' → 'November 17, 2025'</description>
+    </item>
   </channel>
 </rss>

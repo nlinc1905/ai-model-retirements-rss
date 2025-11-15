@@ -27,7 +27,7 @@
     "Model": "gpt-35-turbo",
     "Version": "0125",
     "Lifecycle status": "Generally Available",
-    "Retirement date": "November 11, 2025",
+    "Retirement date": "November 14, 2025",
     "Replacement model": "gpt-4.1-mini",
     "Type": "Text"
   },
@@ -35,7 +35,7 @@
     "Model": "gpt-35-turbo",
     "Version": "1106",
     "Lifecycle status": "Generally Available",
-    "Retirement date": "November 11, 2025",
+    "Retirement date": "November 14, 2025",
     "Replacement model": "gpt-4.1-mini",
     "Type": "Text"
   },
@@ -43,7 +43,7 @@
     "Model": "gpt-4",
     "Version": "turbo-2024-04-09",
     "Lifecycle status": "Generally Available",
-    "Retirement date": "November 11, 2025",
+    "Retirement date": "November 14, 2025",
     "Replacement model": "gpt-4.1",
     "Type": "Text"
   },
@@ -115,7 +115,15 @@
     "Model": "gpt-5-chat",
     "Version": "2025-08-07",
     "Lifecycle status": "Preview",
-    "Retirement date": "No earlier than November 15, 2025",
+    "Retirement date": "No earlier than January 29, 2026",
+    "Replacement model": "",
+    "Type": "Text"
+  },
+  "Text||gpt-5-chat||2025-10-03": {
+    "Model": "gpt-5-chat",
+    "Version": "2025-10-03",
+    "Lifecycle status": "Preview",
+    "Retirement date": "No earlier than January 29, 2026",
     "Replacement model": "",
     "Type": "Text"
   },
@@ -139,7 +147,7 @@
     "Model": "model-router",
     "Version": "2025-05-19",
     "Lifecycle status": "Preview",
-    "Retirement date": "No earlier than November 30, 2025",
+    "Retirement date": "No earlier than March 31, 2026",
     "Replacement model": "",
     "Type": "Text"
   },
@@ -147,7 +155,7 @@
     "Model": "model-router",
     "Version": "2025-08-07",
     "Lifecycle status": "Preview",
-    "Retirement date": "No earlier than November 30, 2025",
+    "Retirement date": "No earlier than March 31, 2026",
     "Replacement model": "",
     "Type": "Text"
   },
@@ -211,7 +219,7 @@
     "Model": "gpt-4o-audio-preview",
     "Version": "2024-12-17",
     "Lifecycle status": "Preview",
-    "Retirement date": "November 13, 2025",
+    "Retirement date": "February 2, 2026",
     "Replacement model": "",
     "Type": "Audio"
   },
@@ -219,7 +227,7 @@
     "Model": "gpt-4o-mini-realtime-preview",
     "Version": "2024-12-17",
     "Lifecycle status": "Preview",
-    "Retirement date": "November 13, 2025",
+    "Retirement date": "February 2, 2026",
     "Replacement model": "",
     "Type": "Audio"
   },
@@ -251,7 +259,7 @@
     "Model": "gpt-4o-realtime-preview",
     "Version": "2024-12-17",
     "Lifecycle status": "Preview",
-    "Retirement date": "November 13, 2025",
+    "Retirement date": "February 2, 2026",
     "Replacement model": "",
     "Type": "Audio"
   },
@@ -259,7 +267,7 @@
     "Model": "gpt-4o-realtime-preview",
     "Version": "2025-06-03",
     "Lifecycle status": "Preview",
-    "Retirement date": "November 13, 2025",
+    "Retirement date": "November 17, 2025",
     "Replacement model": "",
     "Type": "Audio"
   },
