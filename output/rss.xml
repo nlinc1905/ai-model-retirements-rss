@@ -5,7 +5,109 @@
     <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements</link>
     <description>RSS feed of changes (new rows or field updates) detected in the 'Current models' tables.</description>
     <language>en-us</language>
-    <pubDate>Thu, 04 Dec 2025 18:04:12 +0000</pubDate>
-
+    <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+    <item>
+      <title>Updated fields for [Text] gpt-5 2025-08-07: Retirement date: 'No earlier than August 7, 2026' → 'No earlier than August 8, 2026'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+      <guid isPermaLink="false">Text|gpt-5|2025-08-07|-3322394769712685643</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+      <description>Retirement date: 'No earlier than August 7, 2026' → 'No earlier than August 8, 2026'</description>
+    </item>    <item>
+      <title>New model listed in Current models: [Text] gpt-5-codex 2025-09-15</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+      <guid isPermaLink="false">Text|gpt-5-codex|2025-09-15|-8025203214484766979</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+      <description>New row detected in Current models table.</description>
+    </item>    <item>
+      <title>New model listed in Current models: [Text] gpt-5-pro 2025-10-06</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+      <guid isPermaLink="false">Text|gpt-5-pro|2025-10-06|984472719563343201</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+      <description>New row detected in Current models table.</description>
+    </item>    <item>
+      <title>New model listed in Current models: [Text] gpt-5.1 2025-11-13</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+      <guid isPermaLink="false">Text|gpt-5.1|2025-11-13|2049137778805237549</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+      <description>New row detected in Current models table.</description>
+    </item>    <item>
+      <title>New model listed in Current models: [Text] gpt-5.1-codex 2025-11-13</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+      <guid isPermaLink="false">Text|gpt-5.1-codex|2025-11-13|-8140848820359132381</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+      <description>New row detected in Current models table.</description>
+    </item>    <item>
+      <title>New model listed in Current models: [Text] gpt-5.1-codex-mini 2025-11-13</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+      <guid isPermaLink="false">Text|gpt-5.1-codex-mini|2025-11-13|-5645425651104385371</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+      <description>New row detected in Current models table.</description>
+    </item>    <item>
+      <title>New model listed in Current models: [Text] model-router 2025-11-18</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+      <guid isPermaLink="false">Text|model-router|2025-11-18|2853022645916358189</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+      <description>New row detected in Current models table.</description>
+    </item>    <item>
+      <title>New model listed in Current models: [Audio] gpt-4o-transcribe-diarize 2025-10-15</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+      <guid isPermaLink="false">Audio|gpt-4o-transcribe-diarize|2025-10-15|-5488041413742881944</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+      <description>New row detected in Current models table.</description>
+    </item>    <item>
+      <title>New model listed in Current models: [Audio] gpt-audio 2025-08-28</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+      <guid isPermaLink="false">Audio|gpt-audio|2025-08-28|-4088519950559589900</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+      <description>New row detected in Current models table.</description>
+    </item>    <item>
+      <title>New model listed in Current models: [Audio] gpt-audio-mini 2025-10-06</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+      <guid isPermaLink="false">Audio|gpt-audio-mini|2025-10-06|-3347227220643391329</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+      <description>New row detected in Current models table.</description>
+    </item>    <item>
+      <title>New model listed in Current models: [Audio] gpt-realtime 2025-08-28</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+      <guid isPermaLink="false">Audio|gpt-realtime|2025-08-28|-1939866214102492599</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+      <description>New row detected in Current models table.</description>
+    </item>    <item>
+      <title>New model listed in Current models: [Audio] gpt-realtime-mini 2025-10-06</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+      <guid isPermaLink="false">Audio|gpt-realtime-mini|2025-10-06|-7904508261286267561</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+      <description>New row detected in Current models table.</description>
+    </item>    <item>
+      <title>Updated fields for [Image and video] gpt-image-1-mini 2025-10-06: Lifecycle status: 'GA' → 'Generally Available'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=image</link>
+      <guid isPermaLink="false">Image and video|gpt-image-1-mini|2025-10-06|-1034346019031865038</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+      <description>Lifecycle status: 'GA' → 'Generally Available'</description>
+    </item>    <item>
+      <title>Updated fields for [Embedding] text-embedding-3-large 1: Retirement date: 'No earlier than April 30, 2026' → 'No earlier than October 30, 2026'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=embedding</link>
+      <guid isPermaLink="false">Embedding|text-embedding-3-large|1|-5551984426834047890</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+      <description>Retirement date: 'No earlier than April 30, 2026' → 'No earlier than October 30, 2026'</description>
+    </item>    <item>
+      <title>Updated fields for [Embedding] text-embedding-3-small 1: Retirement date: 'No earlier than April 30, 2026' → 'No earlier than October 30, 2026'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=embedding</link>
+      <guid isPermaLink="false">Embedding|text-embedding-3-small|1|313499344158659799</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+      <description>Retirement date: 'No earlier than April 30, 2026' → 'No earlier than October 30, 2026'</description>
+    </item>    <item>
+      <title>Updated fields for [Embedding] text-embedding-ada-002 1: Retirement date: 'No earlier than April 30, 2026' → 'No earlier than October 30, 2026'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=embedding</link>
+      <guid isPermaLink="false">Embedding|text-embedding-ada-002|1|4189275765487706316</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+      <description>Retirement date: 'No earlier than April 30, 2026' → 'No earlier than October 30, 2026'</description>
+    </item>    <item>
+      <title>Updated fields for [Embedding] text-embedding-ada-002 2: Retirement date: 'No earlier than April 30, 2026' → 'No earlier than October 30, 2026'</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=embedding</link>
+      <guid isPermaLink="false">Embedding|text-embedding-ada-002|2|8618067202617166222</guid>
+      <pubDate>Fri, 05 Dec 2025 06:03:57 +0000</pubDate>
+      <description>Retirement date: 'No earlier than April 30, 2026' → 'No earlier than October 30, 2026'</description>
+    </item>
   </channel>
 </rss>
