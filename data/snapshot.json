@@ -387,8 +387,8 @@
     "Model": "dalle-3",
     "Version": "3",
     "Lifecycle status": "Generally Available",
-    "Retirement date": "No earlier than January 31, 2026",
-    "Replacement model": "",
+    "Retirement date": "February 18, 2026",
+    "Replacement model": "gpt-image-1-mini",
     "Type": "Image and video"
   },
   "Image and video||gpt-image-1||2025-04-15": {
