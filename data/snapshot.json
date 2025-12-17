@@ -303,11 +303,27 @@
     "Replacement model": "",
     "Type": "Audio"
   },
+  "Audio||gpt-4o-mini-transcribe-2025-12-15||2025-12-15": {
+    "Model": "gpt-4o-mini-transcribe-2025-12-15",
+    "Version": "2025-12-15",
+    "Lifecycle status": "Generally Available",
+    "Retirement date": "No earlier than December 15, 2026",
+    "Replacement model": "",
+    "Type": "Audio"
+  },
   "Audio||gpt-4o-mini-tts||2025-03-20": {
     "Model": "gpt-4o-mini-tts",
     "Version": "2025-03-20",
     "Lifecycle status": "Preview",
     "Retirement date": "No earlier than January 14, 2026",
+    "Replacement model": "",
+    "Type": "Audio"
+  },
+  "Audio||gpt-4o-mini-tts-2025-12-15||2025-12-15": {
+    "Model": "gpt-4o-mini-tts-2025-12-15",
+    "Version": "2025-12-15",
+    "Lifecycle status": "Generally Available",
+    "Retirement date": "No earlier than December 15, 2026",
     "Replacement model": "",
     "Type": "Audio"
   },
@@ -372,6 +388,14 @@
     "Version": "2025-10-06",
     "Lifecycle status": "Generally Available",
     "Retirement date": "No earlier than October 6, 2026",
+    "Replacement model": "",
+    "Type": "Audio"
+  },
+  "Audio||gpt-realtime-mini-2025-12-15||2025-12-15": {
+    "Model": "gpt-realtime-mini-2025-12-15",
+    "Version": "2025-12-15",
+    "Lifecycle status": "Generally Available",
+    "Retirement date": "No earlier than December 15, 2026",
     "Replacement model": "",
     "Type": "Audio"
   },
