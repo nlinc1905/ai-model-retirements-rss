@@ -3,7 +3,7 @@
     "Model": "2024-05-13",
     "Lifecycle status": "Generally Available",
     "Deprecation Date (No New Customers)": "2025-05-13",
-    "Retirement date": "2026-02-27",
+    "Retirement date": "2026-03-31",
     "Replacement model": "gpt-5.1",
     "Type": "Text"
   },
@@ -11,7 +11,7 @@
     "Model": "2024-07-18",
     "Lifecycle status": "Generally Available",
     "Deprecation Date (No New Customers)": "2025-07-18",
-    "Retirement date": "2026-02-27",
+    "Retirement date": "2026-03-31",
     "Replacement model": "gpt-4.1-mini",
     "Type": "Text"
   },
@@ -19,7 +19,7 @@
     "Model": "2024-08-06",
     "Lifecycle status": "Generally Available",
     "Deprecation Date (No New Customers)": "2025-08-06",
-    "Retirement date": "2026-02-27",
+    "Retirement date": "2026-03-31",
     "Replacement model": "gpt-5.1",
     "Type": "Text"
   },
@@ -210,7 +210,7 @@
   "Image and video||2025-05-02||": {
     "Model": "2025-05-02",
     "Lifecycle status": "Preview",
-    "Deprecation Date (No New Customers)": "2026-05-02",
+    "Deprecation Date (No New Customers)": "n/a",
     "Retirement date": "No earlier than 2026-02-15",
     "Replacement model": "sora-2",
     "Type": "Image and video"
