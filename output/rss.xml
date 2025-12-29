@@ -5,52 +5,52 @@
     <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements</link>
     <description>RSS feed of changes (new rows or field updates) detected in the 'Current models' tables.</description>
     <language>en-us</language>
-    <pubDate>Mon, 29 Dec 2025 06:04:47 +0000</pubDate>
+    <pubDate>Mon, 29 Dec 2025 18:04:05 +0000</pubDate>
     <item>
       <title>Updated fields for [Text] 2025-04-14 : Replacement model: 'gpt-5-nano' → 'gpt-5'</title>
       <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
-      <guid isPermaLink="false">Text|2025-04-14||-5256062792255941660</guid>
-      <pubDate>Mon, 29 Dec 2025 06:04:47 +0000</pubDate>
+      <guid isPermaLink="false">Text|2025-04-14||-1632199406260168965</guid>
+      <pubDate>Mon, 29 Dec 2025 18:04:05 +0000</pubDate>
       <description>Replacement model: 'gpt-5-nano' → 'gpt-5'</description>
     </item>    <item>
       <title>Updated fields for [Text] 2025-04-14 : Replacement model: 'gpt-5-nano' → 'gpt-5-mini'</title>
       <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
-      <guid isPermaLink="false">Text|2025-04-14||-5256062792255941660</guid>
-      <pubDate>Mon, 29 Dec 2025 06:04:47 +0000</pubDate>
+      <guid isPermaLink="false">Text|2025-04-14||-1632199406260168965</guid>
+      <pubDate>Mon, 29 Dec 2025 18:04:05 +0000</pubDate>
       <description>Replacement model: 'gpt-5-nano' → 'gpt-5-mini'</description>
     </item>    <item>
       <title>Updated fields for [Text] 2025-11-13 : Lifecycle status: 'Preview' → 'Generally Available', Retirement date: 'No earlier than 2026-03-31' → '2027-05-15'</title>
       <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
-      <guid isPermaLink="false">Text|2025-11-13||-2222178198597706337</guid>
-      <pubDate>Mon, 29 Dec 2025 06:04:47 +0000</pubDate>
+      <guid isPermaLink="false">Text|2025-11-13||-4343125035895167334</guid>
+      <pubDate>Mon, 29 Dec 2025 18:04:05 +0000</pubDate>
       <description>Lifecycle status: 'Preview' → 'Generally Available'
 Retirement date: 'No earlier than 2026-03-31' → '2027-05-15'</description>
     </item>    <item>
       <title>Updated fields for [Text] 2025-11-13 : Lifecycle status: 'Preview' → 'Generally Available', Retirement date: 'No earlier than 2026-03-31' → '2027-05-15'</title>
       <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
-      <guid isPermaLink="false">Text|2025-11-13||-2222178198597706337</guid>
-      <pubDate>Mon, 29 Dec 2025 06:04:47 +0000</pubDate>
+      <guid isPermaLink="false">Text|2025-11-13||-4343125035895167334</guid>
+      <pubDate>Mon, 29 Dec 2025 18:04:05 +0000</pubDate>
       <description>Lifecycle status: 'Preview' → 'Generally Available'
 Retirement date: 'No earlier than 2026-03-31' → '2027-05-15'</description>
     </item>    <item>
       <title>Updated fields for [Text] 2025-11-13 : Lifecycle status: 'Preview' → 'Generally Available', Retirement date: 'No earlier than 2026-03-31' → '2027-05-15'</title>
       <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
-      <guid isPermaLink="false">Text|2025-11-13||-2222178198597706337</guid>
-      <pubDate>Mon, 29 Dec 2025 06:04:47 +0000</pubDate>
+      <guid isPermaLink="false">Text|2025-11-13||-4343125035895167334</guid>
+      <pubDate>Mon, 29 Dec 2025 18:04:05 +0000</pubDate>
       <description>Lifecycle status: 'Preview' → 'Generally Available'
 Retirement date: 'No earlier than 2026-03-31' → '2027-05-15'</description>
     </item>    <item>
       <title>Updated fields for [Audio] 2024-12-17 : Retirement date: 'No earlier than February 28, 2026' → '2026-02-02', Replacement model: '' → 'gpt-audio'</title>
       <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
-      <guid isPermaLink="false">Audio|2024-12-17||577309869735340645</guid>
-      <pubDate>Mon, 29 Dec 2025 06:04:47 +0000</pubDate>
+      <guid isPermaLink="false">Audio|2024-12-17||-514214558757863847</guid>
+      <pubDate>Mon, 29 Dec 2025 18:04:05 +0000</pubDate>
       <description>Retirement date: 'No earlier than February 28, 2026' → '2026-02-02'
 Replacement model: '' → 'gpt-audio'</description>
     </item>    <item>
       <title>Updated fields for [Audio] 2024-12-17 : Retirement date: 'No earlier than February 28, 2026' → '2026-02-02', Replacement model: '' → 'gpt-realtime'</title>
       <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
-      <guid isPermaLink="false">Audio|2024-12-17||577309869735340645</guid>
-      <pubDate>Mon, 29 Dec 2025 06:04:47 +0000</pubDate>
+      <guid isPermaLink="false">Audio|2024-12-17||-514214558757863847</guid>
+      <pubDate>Mon, 29 Dec 2025 18:04:05 +0000</pubDate>
       <description>Retirement date: 'No earlier than February 28, 2026' → '2026-02-02'
 Replacement model: '' → 'gpt-realtime'</description>
     </item>
