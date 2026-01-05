@@ -116,19 +116,28 @@ def parse_table(table, type_label: str) -> List[Dict[str, str]]:
         if tr0:
             headers = [normalize_text(th.get_text(" ", strip=True)) for th in tr0.find_all(["th", "td"])]
     # Normalize expected headers
-    # Expected: Model | Version | Lifecycle Status | Retirement date | Replacement model
-    # But sometimes a combined column title is used (e.g., "Model", "Version", "Lifecycle", etc.)
-    # We'll map by best-effort matching.
+    # Expected (new): Model Name | Model Version | Lifecycle Status | Deprecation Date (No New Customers) | Retirement Date | Replacement Model
+    # Expected (old): Model | Version | Lifecycle Status | Retirement date | Replacement model
+    # We'll map by best-effort matching to handle both old and new column structures.
     def header_key(h):
         hl = h.lower()
-        if "model" == hl or hl.startswith("model "):
-            return "Model"
-        if "version" in hl:
+        # Check for "Model Version" BEFORE "Model Name" to avoid false matches
+        # (e.g., "model version 1" starts with "model " so it could match the Model check)
+        if "model version" in hl or ("version" in hl and "model" not in hl):
             return "Version"
+        # Handle "Model Name" or "Model"
+        if "model name" in hl or hl == "model" or hl.startswith("model "):
+            return "Model"
+        # Handle Lifecycle Status
         if "lifecycle" in hl or "status" in hl:
             return "Lifecycle status"
+        # Handle "Deprecation Date (No New Customers)" - NEW COLUMN
+        if "deprecation" in hl:
+            return "Deprecation date"
+        # Handle regular "Retirement Date"
         if "retirement" in hl:
             return "Retirement date"
+        # Handle Replacement model
         if "replacement" in hl:
             return "Replacement model"
         return h  # fallback
@@ -258,7 +267,7 @@ def compare_snapshots(old: Dict[Tuple[str, str, str], Dict[str, str]], new_rows:
             # Detect any field changes
             old_row = old[k]
             diffs = {}
-            for field in ["Lifecycle status", "Retirement date", "Replacement model"]:
+            for field in ["Lifecycle status", "Deprecation date", "Retirement date", "Replacement model"]:
                 if old_row.get(field, "") != row.get(field, ""):
                     diffs[field] = (old_row.get(field, ""), row.get(field, ""))
             if diffs:
@@ -275,7 +284,7 @@ def compare_snapshots(old: Dict[Tuple[str, str, str], Dict[str, str]], new_rows:
 
 def write_csv(rows: List[Dict[str, str]], out_csv: str) -> None:
     # Ensure consistent column order
-    fields = ["Type", "Model", "Version", "Lifecycle status", "Retirement date", "Replacement model"]
+    fields = ["Type", "Model", "Version", "Lifecycle status", "Deprecation date", "Retirement date", "Replacement model"]
     with open(out_csv, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=fields)
         w.writeheader()

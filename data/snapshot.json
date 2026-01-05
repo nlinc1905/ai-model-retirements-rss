@@ -1,264 +1,450 @@
 {
-  "Text||2024-05-13||": {
-    "Model": "2024-05-13",
+  "Text||codex-mini||2025-05-16": {
+    "Model": "codex-mini",
+    "Version": "2025-05-16",
     "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2025-05-13",
-    "Retirement date": "2026-03-31",
-    "Replacement model": "gpt-5.1",
-    "Type": "Text"
-  },
-  "Text||2024-07-18||": {
-    "Model": "2024-07-18",
-    "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2025-07-18",
-    "Retirement date": "2026-03-31",
-    "Replacement model": "gpt-4.1-mini",
-    "Type": "Text"
-  },
-  "Text||2024-08-06||": {
-    "Model": "2024-08-06",
-    "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2025-08-06",
-    "Retirement date": "2026-03-31",
-    "Replacement model": "gpt-5.1",
-    "Type": "Text"
-  },
-  "Text||2024-11-20||": {
-    "Model": "2024-11-20",
-    "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2025-11-20",
-    "Retirement date": "2026-06-03",
-    "Replacement model": "gpt-5.1",
-    "Type": "Text"
-  },
-  "Text||2024-12-17||": {
-    "Model": "2024-12-17",
-    "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2025-12-17",
-    "Retirement date": "2026-06-18",
-    "Replacement model": "o3",
-    "Type": "Text"
-  },
-  "Text||2025-01-31||": {
-    "Model": "2025-01-31",
-    "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2026-01-31",
-    "Retirement date": "2026-08-02",
-    "Replacement model": "o4-mini",
-    "Type": "Text"
-  },
-  "Text||2025-03-11||": {
-    "Model": "2025-03-11",
-    "Lifecycle status": "Preview",
-    "Deprecation Date (No New Customers)": "n/a",
-    "Retirement date": "No earlier than 2026-04-14",
-    "Replacement model": "",
-    "Type": "Text"
-  },
-  "Text||2025-03-19||": {
-    "Model": "2025-03-19",
-    "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2026-03-19",
-    "Retirement date": "2026-09-18",
-    "Replacement model": "o3-pro",
-    "Type": "Text"
-  },
-  "Text||2025-04-14||": {
-    "Model": "2025-04-14",
-    "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2026-04-14",
-    "Retirement date": "2026-10-14",
-    "Replacement model": "gpt-5-nano",
-    "Type": "Text"
-  },
-  "Text||2025-04-16||": {
-    "Model": "2025-04-16",
-    "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2026-04-16",
-    "Retirement date": "2026-10-16",
-    "Replacement model": "",
-    "Type": "Text"
-  },
-  "Text||2025-05-16||": {
-    "Model": "2025-05-16",
-    "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2026-05-16",
+    "Deprecation date": "2026-05-16",
     "Retirement date": "2026-11-15",
     "Replacement model": "",
     "Type": "Text"
   },
-  "Text||2025-06-10||": {
-    "Model": "2025-06-10",
-    "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2026-06-10",
-    "Retirement date": "2026-12-10",
+  "Text||computer-use-preview||2025-03-11": {
+    "Model": "computer-use-preview",
+    "Version": "2025-03-11",
+    "Lifecycle status": "Preview",
+    "Deprecation date": "n/a",
+    "Retirement date": "No earlier than 2026-04-14",
     "Replacement model": "",
     "Type": "Text"
   },
-  "Text||2025-06-26||": {
-    "Model": "2025-06-26",
+  "Text||gpt-4.1||2025-04-14": {
+    "Model": "gpt-4.1",
+    "Version": "2025-04-14",
     "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2026-06-26",
-    "Retirement date": "2026-12-26",
-    "Replacement model": "",
+    "Deprecation date": "2026-04-14",
+    "Retirement date": "2026-10-14",
+    "Replacement model": "gpt-5",
     "Type": "Text"
   },
-  "Text||2025-08-07||": {
-    "Model": "2025-08-07",
+  "Text||gpt-4.1-mini||2025-04-14": {
+    "Model": "gpt-4.1-mini",
+    "Version": "2025-04-14",
     "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2026-08-07",
-    "Retirement date": "2027-02-06",
-    "Replacement model": "",
+    "Deprecation date": "2026-04-14",
+    "Retirement date": "2026-10-14",
+    "Replacement model": "gpt-5-mini",
     "Type": "Text"
   },
-  "Text||2025-09-15||": {
-    "Model": "2025-09-15",
+  "Text||gpt-4.1-nano||2025-04-14": {
+    "Model": "gpt-4.1-nano",
+    "Version": "2025-04-14",
     "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2026-09-15",
+    "Deprecation date": "2026-04-14",
+    "Retirement date": "2026-10-14",
+    "Replacement model": "gpt-5-nano",
+    "Type": "Text"
+  },
+  "Text||gpt-4o||2024-05-13": {
+    "Model": "gpt-4o",
+    "Version": "2024-05-13",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2025-05-13",
+    "Retirement date": "2026-03-31",
+    "Replacement model": "gpt-5.1",
+    "Type": "Text"
+  },
+  "Text||gpt-4o||2024-08-06": {
+    "Model": "gpt-4o",
+    "Version": "2024-08-06",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2025-08-06",
+    "Retirement date": "2026-03-31",
+    "Replacement model": "gpt-5.1",
+    "Type": "Text"
+  },
+  "Text||gpt-4o||2024-11-20": {
+    "Model": "gpt-4o",
+    "Version": "2024-11-20",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2025-11-20",
+    "Retirement date": "2026-06-03",
+    "Replacement model": "gpt-5.1",
+    "Type": "Text"
+  },
+  "Text||gpt-4o-mini||2024-07-18": {
+    "Model": "gpt-4o-mini",
+    "Version": "2024-07-18",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2025-07-18",
+    "Retirement date": "2026-03-31",
+    "Replacement model": "gpt-4.1-mini",
+    "Type": "Text"
+  },
+  "Text||gpt-5-codex||2025-09-15": {
+    "Model": "gpt-5-codex",
+    "Version": "2025-09-15",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2026-09-15",
     "Retirement date": "2027-03-17",
     "Replacement model": "",
     "Type": "Text"
   },
-  "Text||2025-10-06||": {
-    "Model": "2025-10-06",
+  "Text||gpt-5-mini||2025-08-07": {
+    "Model": "gpt-5-mini",
+    "Version": "2025-08-07",
     "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2026-10-06",
+    "Deprecation date": "2026-08-07",
+    "Retirement date": "2027-02-06",
+    "Replacement model": "",
+    "Type": "Text"
+  },
+  "Text||gpt-5-nano||2025-08-07": {
+    "Model": "gpt-5-nano",
+    "Version": "2025-08-07",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2026-08-07",
+    "Retirement date": "2027-02-06",
+    "Replacement model": "",
+    "Type": "Text"
+  },
+  "Text||gpt-5-pro||2025-10-06": {
+    "Model": "gpt-5-pro",
+    "Version": "2025-10-06",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2026-10-06",
     "Retirement date": "2027-04-07",
     "Replacement model": "",
     "Type": "Text"
   },
-  "Text||2025-11-13||": {
-    "Model": "2025-11-13",
+  "Text||gpt-5.1||2025-11-13": {
+    "Model": "gpt-5.1",
+    "Version": "2025-11-13",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2026-11-13",
+    "Retirement date": "2027-05-15",
+    "Replacement model": "",
+    "Type": "Text"
+  },
+  "Text||gpt-5.1-chat||2025-11-13": {
+    "Model": "gpt-5.1-chat",
+    "Version": "2025-11-13",
     "Lifecycle status": "Preview",
-    "Deprecation Date (No New Customers)": "n/a",
+    "Deprecation date": "n/a",
     "Retirement date": "No earlier than 2026-03-31",
     "Replacement model": "",
     "Type": "Text"
   },
-  "Text||2025-11-18||": {
-    "Model": "2025-11-18",
+  "Text||gpt-5.1-codex||2025-11-13": {
+    "Model": "gpt-5.1-codex",
+    "Version": "2025-11-13",
     "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2026-11-18",
+    "Deprecation date": "2026-11-13",
+    "Retirement date": "2027-05-15",
+    "Replacement model": "",
+    "Type": "Text"
+  },
+  "Text||gpt-5.1-codex-mini||2025-11-13": {
+    "Model": "gpt-5.1-codex-mini",
+    "Version": "2025-11-13",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2026-11-13",
+    "Retirement date": "2027-05-15",
+    "Replacement model": "",
+    "Type": "Text"
+  },
+  "Text||model-router||2025-11-18": {
+    "Model": "model-router",
+    "Version": "2025-11-18",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2026-11-18",
     "Retirement date": "2027-05-20",
     "Replacement model": "",
     "Type": "Text"
   },
-  "Audio||001||": {
-    "Model": "001",
+  "Text||o1||2024-12-17": {
+    "Model": "o1",
+    "Version": "2024-12-17",
     "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "No earlier than February 28, 2026",
-    "Retirement date": "",
+    "Deprecation date": "2025-12-17",
+    "Retirement date": "2026-06-18",
+    "Replacement model": "o3",
+    "Type": "Text"
+  },
+  "Text||o1-pro||2025-03-19": {
+    "Model": "o1-pro",
+    "Version": "2025-03-19",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2026-03-19",
+    "Retirement date": "2026-09-18",
+    "Replacement model": "o3-pro",
+    "Type": "Text"
+  },
+  "Text||o3||2025-04-16": {
+    "Model": "o3",
+    "Version": "2025-04-16",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2026-04-16",
+    "Retirement date": "2026-10-16",
     "Replacement model": "",
+    "Type": "Text"
+  },
+  "Text||o3-deep-research||2025-06-26": {
+    "Model": "o3-deep-research",
+    "Version": "2025-06-26",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2026-06-26",
+    "Retirement date": "2026-12-26",
+    "Replacement model": "",
+    "Type": "Text"
+  },
+  "Text||o3-mini||2025-01-31": {
+    "Model": "o3-mini",
+    "Version": "2025-01-31",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2026-01-31",
+    "Retirement date": "2026-08-02",
+    "Replacement model": "o4-mini",
+    "Type": "Text"
+  },
+  "Text||o3-pro||2025-06-10": {
+    "Model": "o3-pro",
+    "Version": "2025-06-10",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2026-06-10",
+    "Retirement date": "2026-12-10",
+    "Replacement model": "",
+    "Type": "Text"
+  },
+  "Text||o4-mini||2025-04-16": {
+    "Model": "o4-mini",
+    "Version": "2025-04-16",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2026-04-16",
+    "Retirement date": "2026-10-16",
+    "Replacement model": "",
+    "Type": "Text"
+  },
+  "Audio||gpt-4o-audio-preview||2024-12-17": {
+    "Model": "gpt-4o-audio-preview",
+    "Version": "2024-12-17",
+    "Lifecycle status": "Preview",
+    "Deprecation date": "n/a",
+    "Retirement date": "2026-02-02",
+    "Replacement model": "gpt-audio",
     "Type": "Audio"
   },
-  "Audio||2024-12-17||": {
-    "Model": "2024-12-17",
+  "Audio||gpt-4o-mini-audio-preview||2024-12-17": {
+    "Model": "gpt-4o-mini-audio-preview",
+    "Version": "2024-12-17",
     "Lifecycle status": "Preview",
-    "Deprecation Date (No New Customers)": "n/a",
+    "Deprecation date": "n/a",
     "Retirement date": "No earlier than February 28, 2026",
     "Replacement model": "",
     "Type": "Audio"
   },
-  "Audio||2025-03-20||": {
-    "Model": "2025-03-20",
+  "Audio||gpt-4o-mini-realtime-preview||2024-12-17": {
+    "Model": "gpt-4o-mini-realtime-preview",
+    "Version": "2024-12-17",
     "Lifecycle status": "Preview",
-    "Deprecation Date (No New Customers)": "n/a",
+    "Deprecation date": "n/a",
     "Retirement date": "No earlier than February 28, 2026",
     "Replacement model": "",
     "Type": "Audio"
   },
-  "Audio||2025-08-28||": {
-    "Model": "2025-08-28",
-    "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2026-08-28",
-    "Retirement date": "2027-02-28",
+  "Audio||gpt-4o-mini-transcribe||2025-03-20": {
+    "Model": "gpt-4o-mini-transcribe",
+    "Version": "2025-03-20",
+    "Lifecycle status": "Preview",
+    "Deprecation date": "n/a",
+    "Retirement date": "No earlier than February 28, 2026",
     "Replacement model": "",
     "Type": "Audio"
   },
-  "Audio||2025-10-06||": {
-    "Model": "2025-10-06",
+  "Audio||gpt-4o-mini-transcribe-2025-12-15||2025-12-15": {
+    "Model": "gpt-4o-mini-transcribe-2025-12-15",
+    "Version": "2025-12-15",
     "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2026-10-06",
-    "Retirement date": "2027-04-07",
-    "Replacement model": "",
-    "Type": "Audio"
-  },
-  "Audio||2025-10-15||": {
-    "Model": "2025-10-15",
-    "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2026-10-15",
-    "Retirement date": "2027-04-16",
-    "Replacement model": "",
-    "Type": "Audio"
-  },
-  "Audio||2025-12-15||": {
-    "Model": "2025-12-15",
-    "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "n/a",
+    "Deprecation date": "n/a",
     "Retirement date": "No earlier than December 15, 2026",
     "Replacement model": "",
     "Type": "Audio"
   },
-  "Image and video||2025-04-15||": {
-    "Model": "2025-04-15",
+  "Audio||gpt-4o-mini-tts||2025-03-20": {
+    "Model": "gpt-4o-mini-tts",
+    "Version": "2025-03-20",
     "Lifecycle status": "Preview",
-    "Deprecation Date (No New Customers)": "n/a",
-    "Retirement date": "No earlier than 2026-03-31",
-    "Replacement model": "gpt-image-1-mini",
-    "Type": "Image and video"
+    "Deprecation date": "n/a",
+    "Retirement date": "No earlier than February 28, 2026",
+    "Replacement model": "",
+    "Type": "Audio"
   },
-  "Image and video||2025-05-02||": {
-    "Model": "2025-05-02",
-    "Lifecycle status": "Preview",
-    "Deprecation Date (No New Customers)": "n/a",
-    "Retirement date": "No earlier than 2026-02-15",
-    "Replacement model": "sora-2",
-    "Type": "Image and video"
-  },
-  "Image and video||2025-10-06||": {
-    "Model": "2025-10-06",
+  "Audio||gpt-4o-mini-tts-2025-12-15||2025-12-15": {
+    "Model": "gpt-4o-mini-tts-2025-12-15",
+    "Version": "2025-12-15",
     "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "2026-10-06",
+    "Deprecation date": "n/a",
+    "Retirement date": "No earlier than December 15, 2026",
+    "Replacement model": "",
+    "Type": "Audio"
+  },
+  "Audio||gpt-4o-realtime-preview||2024-12-17": {
+    "Model": "gpt-4o-realtime-preview",
+    "Version": "2024-12-17",
+    "Lifecycle status": "Preview",
+    "Deprecation date": "n/a",
+    "Retirement date": "2026-02-02",
+    "Replacement model": "gpt-realtime",
+    "Type": "Audio"
+  },
+  "Audio||gpt-4o-transcribe||2025-03-20": {
+    "Model": "gpt-4o-transcribe",
+    "Version": "2025-03-20",
+    "Lifecycle status": "Preview",
+    "Deprecation date": "n/a",
+    "Retirement date": "No earlier than February 28, 2026",
+    "Replacement model": "",
+    "Type": "Audio"
+  },
+  "Audio||gpt-4o-transcribe-diarize||2025-10-15": {
+    "Model": "gpt-4o-transcribe-diarize",
+    "Version": "2025-10-15",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2026-10-15",
+    "Retirement date": "2027-04-16",
+    "Replacement model": "",
+    "Type": "Audio"
+  },
+  "Audio||gpt-audio||2025-08-28": {
+    "Model": "gpt-audio",
+    "Version": "2025-08-28",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2026-08-28",
+    "Retirement date": "2027-02-28",
+    "Replacement model": "",
+    "Type": "Audio"
+  },
+  "Audio||gpt-audio-mini||2025-10-06": {
+    "Model": "gpt-audio-mini",
+    "Version": "2025-10-06",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "2026-10-06",
     "Retirement date": "2027-04-07",
     "Replacement model": "",
-    "Type": "Image and video"
+    "Type": "Audio"
   },
-  "Image and video||2025-12-16||": {
-    "Model": "2025-12-16",
-    "Lifecycle status": "Preview",
-    "Deprecation Date (No New Customers)": "n/a",
-    "Retirement date": "No earlier than December 16, 2026",
-    "Replacement model": "",
-    "Type": "Image and video"
-  },
-  "Image and video||3||": {
-    "Model": "3",
+  "Audio||gpt-realtime||2025-08-28": {
+    "Model": "gpt-realtime",
+    "Version": "2025-08-28",
     "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "n/a",
+    "Deprecation date": "2026-08-28",
+    "Retirement date": "2027-02-28",
+    "Replacement model": "",
+    "Type": "Audio"
+  },
+  "Audio||gpt-realtime-mini-2025-12-15||2025-12-15": {
+    "Model": "gpt-realtime-mini-2025-12-15",
+    "Version": "2025-12-15",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "n/a",
+    "Retirement date": "No earlier than December 15, 2026",
+    "Replacement model": "",
+    "Type": "Audio"
+  },
+  "Audio||tts||001": {
+    "Model": "tts",
+    "Version": "001",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "No earlier than February 28, 2026",
+    "Retirement date": "",
+    "Replacement model": "",
+    "Type": "Audio"
+  },
+  "Audio||tts-hd||001": {
+    "Model": "tts-hd",
+    "Version": "001",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "No earlier than February 28, 2026",
+    "Retirement date": "",
+    "Replacement model": "",
+    "Type": "Audio"
+  },
+  "Audio||whisper||001": {
+    "Model": "whisper",
+    "Version": "001",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "No earlier than February 28, 2026",
+    "Retirement date": "",
+    "Replacement model": "",
+    "Type": "Audio"
+  },
+  "Image and video||dall-e-3||3": {
+    "Model": "dall-e-3",
+    "Version": "3",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "n/a",
     "Retirement date": "2026-02-18",
     "Replacement model": "gpt-image-1-mini",
     "Type": "Image and video"
   },
-  "Embedding||002||": {
-    "Model": "002",
+  "Image and video||gpt-image-1||2025-04-15": {
+    "Model": "gpt-image-1",
+    "Version": "2025-04-15",
+    "Lifecycle status": "Preview",
+    "Deprecation date": "n/a",
+    "Retirement date": "No earlier than 2026-03-31",
+    "Replacement model": "gpt-image-1-mini",
+    "Type": "Image and video"
+  },
+  "Image and video||gpt-image-1-mini||2025-10-06": {
+    "Model": "gpt-image-1-mini",
+    "Version": "2025-10-06",
     "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "n/a",
+    "Deprecation date": "2026-10-06",
+    "Retirement date": "2027-04-07",
+    "Replacement model": "",
+    "Type": "Image and video"
+  },
+  "Image and video||gpt-image-1.5||2025-12-16": {
+    "Model": "gpt-image-1.5",
+    "Version": "2025-12-16",
+    "Lifecycle status": "Preview",
+    "Deprecation date": "n/a",
+    "Retirement date": "No earlier than December 16, 2026",
+    "Replacement model": "",
+    "Type": "Image and video"
+  },
+  "Image and video||sora||2025-05-02": {
+    "Model": "sora",
+    "Version": "2025-05-02",
+    "Lifecycle status": "Preview",
+    "Deprecation date": "n/a",
+    "Retirement date": "No earlier than 2026-02-15",
+    "Replacement model": "sora-2",
+    "Type": "Image and video"
+  },
+  "Embedding||text-embedding-3-large||3-large": {
+    "Model": "text-embedding-3-large",
+    "Version": "3-large",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "n/a",
     "Retirement date": "No earlier than 2026-10-30",
     "Replacement model": "n/a",
     "Type": "Embedding"
   },
-  "Embedding||3-large||": {
-    "Model": "3-large",
+  "Embedding||text-embedding-3-small||3-small": {
+    "Model": "text-embedding-3-small",
+    "Version": "3-small",
     "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "n/a",
+    "Deprecation date": "n/a",
     "Retirement date": "No earlier than 2026-10-30",
     "Replacement model": "n/a",
     "Type": "Embedding"
   },
-  "Embedding||3-small||": {
-    "Model": "3-small",
+  "Embedding||text-embedding-ada-002||002": {
+    "Model": "text-embedding-ada-002",
+    "Version": "002",
     "Lifecycle status": "Generally Available",
-    "Deprecation Date (No New Customers)": "n/a",
+    "Deprecation date": "n/a",
     "Retirement date": "No earlier than 2026-10-30",
     "Replacement model": "n/a",
     "Type": "Embedding"

@@ -5,54 +5,613 @@
     <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements</link>
     <description>RSS feed of changes (new rows or field updates) detected in the 'Current models' tables.</description>
     <language>en-us</language>
-    <pubDate>Mon, 05 Jan 2026 06:06:02 +0000</pubDate>
-    <item>
-      <title>Updated fields for [Text] 2025-04-14 : Replacement model: 'gpt-5-nano' → 'gpt-5'</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
-      <guid isPermaLink="false">Text|2025-04-14||7785043388974971593</guid>
-      <pubDate>Mon, 05 Jan 2026 06:06:02 +0000</pubDate>
-      <description>Replacement model: 'gpt-5-nano' → 'gpt-5'</description>
-    </item>    <item>
-      <title>Updated fields for [Text] 2025-04-14 : Replacement model: 'gpt-5-nano' → 'gpt-5-mini'</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
-      <guid isPermaLink="false">Text|2025-04-14||7785043388974971593</guid>
-      <pubDate>Mon, 05 Jan 2026 06:06:02 +0000</pubDate>
-      <description>Replacement model: 'gpt-5-nano' → 'gpt-5-mini'</description>
-    </item>    <item>
-      <title>Updated fields for [Text] 2025-11-13 : Lifecycle status: 'Preview' → 'Generally Available', Retirement date: 'No earlier than 2026-03-31' → '2027-05-15'</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
-      <guid isPermaLink="false">Text|2025-11-13||-2713105723923670558</guid>
-      <pubDate>Mon, 05 Jan 2026 06:06:02 +0000</pubDate>
-      <description>Lifecycle status: 'Preview' → 'Generally Available'
-Retirement date: 'No earlier than 2026-03-31' → '2027-05-15'</description>
-    </item>    <item>
-      <title>Updated fields for [Text] 2025-11-13 : Lifecycle status: 'Preview' → 'Generally Available', Retirement date: 'No earlier than 2026-03-31' → '2027-05-15'</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
-      <guid isPermaLink="false">Text|2025-11-13||-2713105723923670558</guid>
-      <pubDate>Mon, 05 Jan 2026 06:06:02 +0000</pubDate>
-      <description>Lifecycle status: 'Preview' → 'Generally Available'
-Retirement date: 'No earlier than 2026-03-31' → '2027-05-15'</description>
-    </item>    <item>
-      <title>Updated fields for [Text] 2025-11-13 : Lifecycle status: 'Preview' → 'Generally Available', Retirement date: 'No earlier than 2026-03-31' → '2027-05-15'</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
-      <guid isPermaLink="false">Text|2025-11-13||-2713105723923670558</guid>
-      <pubDate>Mon, 05 Jan 2026 06:06:02 +0000</pubDate>
-      <description>Lifecycle status: 'Preview' → 'Generally Available'
-Retirement date: 'No earlier than 2026-03-31' → '2027-05-15'</description>
-    </item>    <item>
-      <title>Updated fields for [Audio] 2024-12-17 : Retirement date: 'No earlier than February 28, 2026' → '2026-02-02', Replacement model: '' → 'gpt-audio'</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
-      <guid isPermaLink="false">Audio|2024-12-17||6018524508754350287</guid>
-      <pubDate>Mon, 05 Jan 2026 06:06:02 +0000</pubDate>
-      <description>Retirement date: 'No earlier than February 28, 2026' → '2026-02-02'
-Replacement model: '' → 'gpt-audio'</description>
-    </item>    <item>
-      <title>Updated fields for [Audio] 2024-12-17 : Retirement date: 'No earlier than February 28, 2026' → '2026-02-02', Replacement model: '' → 'gpt-realtime'</title>
-      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
-      <guid isPermaLink="false">Audio|2024-12-17||6018524508754350287</guid>
-      <pubDate>Mon, 05 Jan 2026 06:06:02 +0000</pubDate>
-      <description>Retirement date: 'No earlier than February 28, 2026' → '2026-02-02'
-Replacement model: '' → 'gpt-realtime'</description>
-    </item>
+    <pubDate>Mon, 05 Jan 2026 08:01:35 +0000</pubDate>
+<item>
+<title>New model listed in Current models: [Text] codex-mini 2025-05-16</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|codex-mini|2025-05-16|-5617591104094035723</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] computer-use-preview 2025-03-11</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|computer-use-preview|2025-03-11|-6082498965150400027</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] gpt-4.1 2025-04-14</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|gpt-4.1|2025-04-14|-6276762140816287396</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] gpt-4.1-mini 2025-04-14</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|gpt-4.1-mini|2025-04-14|7337401536287676691</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] gpt-4.1-nano 2025-04-14</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|gpt-4.1-nano|2025-04-14|-3723644842860020309</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] gpt-4o 2024-05-13</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|gpt-4o|2024-05-13|-4561012355013266213</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] gpt-4o 2024-08-06</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|gpt-4o|2024-08-06|4892442976617057132</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] gpt-4o 2024-11-20</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|gpt-4o|2024-11-20|-4511139751277111804</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] gpt-4o-mini 2024-07-18</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|gpt-4o-mini|2024-07-18|-5558621127390976658</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] gpt-5-codex 2025-09-15</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|gpt-5-codex|2025-09-15|4499710821895853663</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] gpt-5-mini 2025-08-07</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|gpt-5-mini|2025-08-07|241293518202933811</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] gpt-5-nano 2025-08-07</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|gpt-5-nano|2025-08-07|3113581232982066704</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] gpt-5-pro 2025-10-06</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|gpt-5-pro|2025-10-06|7913930735592190014</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] gpt-5.1 2025-11-13</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|gpt-5.1|2025-11-13|1365078838937299319</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] gpt-5.1-chat 2025-11-13</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|gpt-5.1-chat|2025-11-13|2955664698829599295</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] gpt-5.1-codex 2025-11-13</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|gpt-5.1-codex|2025-11-13|-6170026603962927304</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] gpt-5.1-codex-mini 2025-11-13</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|gpt-5.1-codex-mini|2025-11-13|-3143553985634237469</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] model-router 2025-11-18</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|model-router|2025-11-18|-3286582746941382646</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] o1 2024-12-17</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|o1|2024-12-17|6738023845869683779</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] o1-pro 2025-03-19</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|o1-pro|2025-03-19|7012902430559665562</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] o3 2025-04-16</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|o3|2025-04-16|774278597164328907</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] o3-deep-research 2025-06-26</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|o3-deep-research|2025-06-26|4540119612317840058</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] o3-mini 2025-01-31</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|o3-mini|2025-01-31|-3130422771901642194</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] o3-pro 2025-06-10</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|o3-pro|2025-06-10|-495016806259495273</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] o4-mini 2025-04-16</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|o4-mini|2025-04-16|-1367741914706075504</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] gpt-4o-audio-preview 2024-12-17</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|gpt-4o-audio-preview|2024-12-17|934275597949112910</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] gpt-4o-mini-audio-preview 2024-12-17</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|gpt-4o-mini-audio-preview|2024-12-17|-3637710186016914588</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] gpt-4o-mini-realtime-preview 2024-12-17</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|gpt-4o-mini-realtime-preview|2024-12-17|4724919095500451848</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] gpt-4o-mini-transcribe 2025-03-20</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|gpt-4o-mini-transcribe|2025-03-20|-3945771032907014686</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] gpt-4o-mini-transcribe-2025-12-15 2025-12-15</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|gpt-4o-mini-transcribe-2025-12-15|2025-12-15|-5520404712782398326</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] gpt-4o-mini-tts 2025-03-20</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|gpt-4o-mini-tts|2025-03-20|-8985050357979417598</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] gpt-4o-mini-tts-2025-12-15 2025-12-15</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|gpt-4o-mini-tts-2025-12-15|2025-12-15|1781659512013684466</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] gpt-4o-realtime-preview 2024-12-17</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|gpt-4o-realtime-preview|2024-12-17|5303594774557654081</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] gpt-4o-transcribe 2025-03-20</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|gpt-4o-transcribe|2025-03-20|-4750567334299441111</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] gpt-4o-transcribe-diarize 2025-10-15</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|gpt-4o-transcribe-diarize|2025-10-15|206835162809743713</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] gpt-audio 2025-08-28</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|gpt-audio|2025-08-28|-4245476182613956812</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] gpt-audio-mini 2025-10-06</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|gpt-audio-mini|2025-10-06|-8809325679473353602</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] gpt-realtime 2025-08-28</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|gpt-realtime|2025-08-28|-1071807807191621035</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] gpt-realtime-mini-2025-12-15 2025-12-15</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|gpt-realtime-mini-2025-12-15|2025-12-15|-8556904099510745503</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] tts 001</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|tts|001|-2095794146542653917</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] tts-hd 001</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|tts-hd|001|-4563284039981708617</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] whisper 001</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|whisper|001|7014709945328574421</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Image and video] dall-e-3 3</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=image</link>
+<guid isPermaLink="false">Image and video|dall-e-3|3|282117704530287302</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Image and video] gpt-image-1 2025-04-15</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=image</link>
+<guid isPermaLink="false">Image and video|gpt-image-1|2025-04-15|-1962756390627154077</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Image and video] gpt-image-1-mini 2025-10-06</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=image</link>
+<guid isPermaLink="false">Image and video|gpt-image-1-mini|2025-10-06|7859081859316323412</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Image and video] gpt-image-1.5 2025-12-16</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=image</link>
+<guid isPermaLink="false">Image and video|gpt-image-1.5|2025-12-16|3886896938408111447</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Image and video] sora 2025-05-02</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=image</link>
+<guid isPermaLink="false">Image and video|sora|2025-05-02|885976681573468317</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Embedding] text-embedding-3-large 3-large</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=embedding</link>
+<guid isPermaLink="false">Embedding|text-embedding-3-large|3-large|-6510392117737829027</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Embedding] text-embedding-3-small 3-small</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=embedding</link>
+<guid isPermaLink="false">Embedding|text-embedding-3-small|3-small|4868965053196769107</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Embedding] text-embedding-ada-002 002</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=embedding</link>
+<guid isPermaLink="false">Embedding|text-embedding-ada-002|002|-7458799173245438615</guid>
+<pubDate>Mon, 05 Jan 2026 08:00:25 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2024-05-13 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2024-05-13||-565403596343699012</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2024-07-18 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2024-07-18||-7687609148470520496</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2024-08-06 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2024-08-06||2168743939395806354</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2024-11-20 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2024-11-20||-7540918134951279550</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2024-12-17 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2024-12-17||2650632419648720964</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-01-31 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-01-31||-188902807096822118</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-03-11 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-03-11||6588605226642844864</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-03-19 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-03-19||6456871261467257560</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-04-14 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-04-14||1838209427768671891</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-04-14 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-04-14||1838209427768671891</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-04-14 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-04-14||1838209427768671891</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-04-16 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-04-16||-1543821167408222882</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-04-16 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-04-16||-1543821167408222882</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-05-16 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-05-16||-3869691488155097503</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-06-10 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-06-10||-6882124920565812452</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-06-26 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-06-26||-345939881848785835</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-08-07 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-08-07||-4177082990493045917</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-08-07 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-08-07||-4177082990493045917</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-09-15 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-09-15||-7166977045314897733</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-10-06 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-10-06||-2554093074938498061</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-11-13 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-11-13||-1341462460326233632</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-11-13 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-11-13||-1341462460326233632</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-11-13 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-11-13||-1341462460326233632</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-11-13 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-11-13||-1341462460326233632</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Text] 2025-11-18 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=text</link>
+<guid isPermaLink="false">Text|2025-11-18||-6423470898488164511</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] 001 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|001||-3172555910655095033</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] 001 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|001||-3172555910655095033</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] 001 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|001||-3172555910655095033</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] 2024-12-17 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|2024-12-17||2650632419648720964</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] 2024-12-17 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|2024-12-17||2650632419648720964</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] 2024-12-17 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|2024-12-17||2650632419648720964</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] 2024-12-17 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|2024-12-17||2650632419648720964</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] 2025-03-20 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|2025-03-20||-845589119582071310</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] 2025-03-20 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|2025-03-20||-845589119582071310</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] 2025-03-20 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|2025-03-20||-845589119582071310</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] 2025-08-28 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|2025-08-28||-8821064303612415506</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] 2025-08-28 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|2025-08-28||-8821064303612415506</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] 2025-10-06 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|2025-10-06||-2554093074938498061</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] 2025-10-15 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|2025-10-15||4365048157836994634</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] 2025-12-15 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|2025-12-15||4099037702910244631</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] 2025-12-15 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|2025-12-15||4099037702910244631</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Audio] 2025-12-15 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=audio</link>
+<guid isPermaLink="false">Audio|2025-12-15||4099037702910244631</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Image and video] 2025-04-15 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=image</link>
+<guid isPermaLink="false">Image and video|2025-04-15||2333607772051951165</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Image and video] 2025-05-02 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=image</link>
+<guid isPermaLink="false">Image and video|2025-05-02||6004853552231697450</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Image and video] 2025-10-06 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=image</link>
+<guid isPermaLink="false">Image and video|2025-10-06||-2554093074938498061</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Image and video] 2025-12-16 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=image</link>
+<guid isPermaLink="false">Image and video|2025-12-16||-644515370754885820</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Image and video] 3 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=image</link>
+<guid isPermaLink="false">Image and video|3||-4373015828410238527</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Embedding] 002 </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=embedding</link>
+<guid isPermaLink="false">Embedding|002||647678063530556718</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Embedding] 3-large </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=embedding</link>
+<guid isPermaLink="false">Embedding|3-large||3926552775987464141</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>New model listed in Current models: [Embedding] 3-small </title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=embedding</link>
+<guid isPermaLink="false">Embedding|3-small||-5269003473818845687</guid>
+<pubDate>Mon, 05 Jan 2026 07:58:41 +0000</pubDate>
+<description>New row detected in Current models table.</description>
+</item><item>
+<title>No changes detected</title>
+<link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements</link>
+<guid isPermaLink="false">1755367392.597712</guid>
+<pubDate>Sat, 16 Aug 2025 18:03:12 +0000</pubDate>
+<description>No additions or updates detected during this run.</description>
+</item>
   </channel>
 </rss>
