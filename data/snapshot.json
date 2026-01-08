@@ -422,27 +422,36 @@
     "Replacement model": "sora-2",
     "Type": "Image and video"
   },
-  "Embedding||text-embedding-3-large||3-large": {
+  "Embedding||text-embedding-3-large||1": {
     "Model": "text-embedding-3-large",
-    "Version": "3-large",
+    "Version": "1",
     "Lifecycle status": "Generally Available",
     "Deprecation date": "n/a",
     "Retirement date": "No earlier than 2026-10-30",
     "Replacement model": "n/a",
     "Type": "Embedding"
   },
-  "Embedding||text-embedding-3-small||3-small": {
+  "Embedding||text-embedding-3-small||1": {
     "Model": "text-embedding-3-small",
-    "Version": "3-small",
+    "Version": "1",
     "Lifecycle status": "Generally Available",
     "Deprecation date": "n/a",
     "Retirement date": "No earlier than 2026-10-30",
     "Replacement model": "n/a",
     "Type": "Embedding"
   },
-  "Embedding||text-embedding-ada-002||002": {
+  "Embedding||text-embedding-ada-002||1": {
     "Model": "text-embedding-ada-002",
-    "Version": "002",
+    "Version": "1",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "n/a",
+    "Retirement date": "No earlier than 2026-10-30",
+    "Replacement model": "n/a",
+    "Type": "Embedding"
+  },
+  "Embedding||text-embedding-ada-002||2": {
+    "Model": "text-embedding-ada-002",
+    "Version": "2",
     "Lifecycle status": "Generally Available",
     "Deprecation date": "n/a",
     "Retirement date": "No earlier than 2026-10-30",
