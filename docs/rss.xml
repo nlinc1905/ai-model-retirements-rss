@@ -5,7 +5,31 @@
     <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements</link>
     <description>RSS feed of changes (new rows or field updates) detected in the 'Current models' tables.</description>
     <language>en-us</language>
-    <pubDate>Thu, 08 Jan 2026 06:04:18 +0000</pubDate>
-
+    <pubDate>Thu, 08 Jan 2026 18:03:38 +0000</pubDate>
+    <item>
+      <title>New model listed in Current models: [Embedding] text-embedding-3-large 1</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=embedding</link>
+      <guid isPermaLink="false">Embedding|text-embedding-3-large|1|6230778750066004006</guid>
+      <pubDate>Thu, 08 Jan 2026 18:03:38 +0000</pubDate>
+      <description>New row detected in Current models table.</description>
+    </item>    <item>
+      <title>New model listed in Current models: [Embedding] text-embedding-3-small 1</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=embedding</link>
+      <guid isPermaLink="false">Embedding|text-embedding-3-small|1|7300635062057658897</guid>
+      <pubDate>Thu, 08 Jan 2026 18:03:38 +0000</pubDate>
+      <description>New row detected in Current models table.</description>
+    </item>    <item>
+      <title>New model listed in Current models: [Embedding] text-embedding-ada-002 1</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=embedding</link>
+      <guid isPermaLink="false">Embedding|text-embedding-ada-002|1|626198026094877197</guid>
+      <pubDate>Thu, 08 Jan 2026 18:03:38 +0000</pubDate>
+      <description>New row detected in Current models table.</description>
+    </item>    <item>
+      <title>New model listed in Current models: [Embedding] text-embedding-ada-002 2</title>
+      <link>https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements?tabs=embedding</link>
+      <guid isPermaLink="false">Embedding|text-embedding-ada-002|2|-8403159776721767838</guid>
+      <pubDate>Thu, 08 Jan 2026 18:03:38 +0000</pubDate>
+      <description>New row detected in Current models table.</description>
+    </item>
   </channel>
 </rss>
