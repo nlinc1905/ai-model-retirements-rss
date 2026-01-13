@@ -80,6 +80,24 @@
     "Replacement model": "gpt-4.1-mini",
     "Type": "Text"
   },
+  "Text||gpt-5-chat||2025-08-07": {
+    "Model": "gpt-5-chat",
+    "Version": "2025-08-07",
+    "Lifecycle status": "Preview",
+    "Deprecation date": "n/a",
+    "Retirement date": "2026-03-01",
+    "Replacement model": "gpt-5.2-chat",
+    "Type": "Text"
+  },
+  "Text||gpt-5-chat||2025-10-03": {
+    "Model": "gpt-5-chat",
+    "Version": "2025-10-03",
+    "Lifecycle status": "Preview",
+    "Deprecation date": "n/a",
+    "Retirement date": "2026-03-01",
+    "Replacement model": "gpt-5.2-chat",
+    "Type": "Text"
+  },
   "Text||gpt-5-codex||2025-09-15": {
     "Model": "gpt-5-codex",
     "Version": "2025-09-15",
@@ -149,6 +167,24 @@
     "Lifecycle status": "Generally Available",
     "Deprecation date": "2026-11-13",
     "Retirement date": "2027-05-15",
+    "Replacement model": "",
+    "Type": "Text"
+  },
+  "Text||gpt-5.2||2025-12-11": {
+    "Model": "gpt-5.2",
+    "Version": "2025-12-11",
+    "Lifecycle status": "Generally Available",
+    "Deprecation date": "No earlier than 2026-12-12",
+    "Retirement date": "No earlier than 2027-05-12",
+    "Replacement model": "",
+    "Type": "Text"
+  },
+  "Text||gpt-5.2-chat||2025-12-11": {
+    "Model": "gpt-5.2-chat",
+    "Version": "2025-12-11",
+    "Lifecycle status": "Preview",
+    "Deprecation date": "n/a",
+    "Retirement date": "No earlier than 2026-04-01",
     "Replacement model": "",
     "Type": "Text"
   },
