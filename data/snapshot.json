@@ -445,7 +445,7 @@
     "Version": "2025-12-16",
     "Lifecycle status": "Preview",
     "Deprecation date": "n/a",
-    "Retirement date": "No earlier than December 16, 2026",
+    "Retirement date": "No earlier than 2026-12-16",
     "Replacement model": "",
     "Type": "Image and video"
   },
@@ -454,8 +454,17 @@
     "Version": "2025-05-02",
     "Lifecycle status": "Preview",
     "Deprecation date": "n/a",
-    "Retirement date": "No earlier than 2026-02-15",
+    "Retirement date": "No earlier than 2026-02-28",
     "Replacement model": "sora-2",
+    "Type": "Image and video"
+  },
+  "Image and video||sora-2||2025-10-15": {
+    "Model": "sora-2",
+    "Version": "2025-10-15",
+    "Lifecycle status": "Preview",
+    "Deprecation date": "n/a",
+    "Retirement date": "No earlier than 2026-04-30",
+    "Replacement model": "",
     "Type": "Image and video"
   },
   "Embedding||text-embedding-3-large||1": {
