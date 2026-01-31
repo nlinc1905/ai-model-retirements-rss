@@ -49,7 +49,7 @@
     "Version": "2024-05-13",
     "Lifecycle status": "Generally Available",
     "Deprecation date": "2025-05-13",
-    "Retirement date": "2026-03-31",
+    "Retirement date": "Standard deployment type retires on 2026-03-31 , with auto-upgrades scheduled to start on 2026-03-09 . For other deployment types, including ALL Provisioned, Global Standard, and Data Zone Standard, the retirement date has been moved to 2026-10-01 .",
     "Replacement model": "gpt-5.1",
     "Type": "Text"
   },
@@ -58,7 +58,7 @@
     "Version": "2024-08-06",
     "Lifecycle status": "Generally Available",
     "Deprecation date": "2025-08-06",
-    "Retirement date": "2026-03-31",
+    "Retirement date": "Standard deployment type retires on 2026-03-31 , with auto-upgrades scheduled to start on 2026-03-09 . For other deployment types, including ALL Provisioned, Global Standard, and Data Zone Standard, the retirement date has been moved to 2026-10-01 .",
     "Replacement model": "gpt-5.1",
     "Type": "Text"
   },
@@ -67,7 +67,7 @@
     "Version": "2024-11-20",
     "Lifecycle status": "Generally Available",
     "Deprecation date": "2025-11-20",
-    "Retirement date": "2026-06-05",
+    "Retirement date": "2026-10-01",
     "Replacement model": "gpt-5.1",
     "Type": "Text"
   },
@@ -76,7 +76,7 @@
     "Version": "2024-07-18",
     "Lifecycle status": "Generally Available",
     "Deprecation date": "2025-07-18",
-    "Retirement date": "2026-03-31",
+    "Retirement date": "Standard deployment type retires on 2026-03-31 , with auto-upgrades scheduled to start on 2026-03-09 . For other deployment types, including ALL Provisioned, Global Standard, and Data Zone Standard, the retirement date has been moved to 2026-10-01 .",
     "Replacement model": "gpt-4.1-mini",
     "Type": "Text"
   },
@@ -472,7 +472,7 @@
     "Version": "1",
     "Lifecycle status": "Generally Available",
     "Deprecation date": "n/a",
-    "Retirement date": "No earlier than 2026-10-30",
+    "Retirement date": "No retirement scheduled. Will not retire before April 15, 2027",
     "Replacement model": "n/a",
     "Type": "Embedding"
   },
@@ -481,7 +481,7 @@
     "Version": "1",
     "Lifecycle status": "Generally Available",
     "Deprecation date": "n/a",
-    "Retirement date": "No earlier than 2026-10-30",
+    "Retirement date": "No retirement scheduled. Will not retire before April 15, 2027",
     "Replacement model": "n/a",
     "Type": "Embedding"
   },
@@ -490,7 +490,7 @@
     "Version": "1",
     "Lifecycle status": "Generally Available",
     "Deprecation date": "n/a",
-    "Retirement date": "No earlier than 2026-10-30",
+    "Retirement date": "No retirement scheduled. Will not retire before April 15, 2027",
     "Replacement model": "n/a",
     "Type": "Embedding"
   },
@@ -499,7 +499,7 @@
     "Version": "2",
     "Lifecycle status": "Generally Available",
     "Deprecation date": "n/a",
-    "Retirement date": "No earlier than 2026-10-30",
+    "Retirement date": "No retirement scheduled. Will not retire before April 15, 2027",
     "Replacement model": "n/a",
     "Type": "Embedding"
   }
