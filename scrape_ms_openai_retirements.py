@@ -387,8 +387,9 @@ def main():
 
     # Resolve directories relative to script location
     root = os.path.dirname(os.path.abspath(__file__))
-    out_dir = os.path.join(root, args.outdir)
-    data_dir = os.path.join(root, args.datadir)
+    sub_folder_name = "openai"
+    out_dir = os.path.join(root, args.outdir, sub_folder_name)
+    data_dir = os.path.join(root, args.datadir, sub_folder_name)
     os.makedirs(out_dir, exist_ok=True)
     os.makedirs(data_dir, exist_ok=True)
 

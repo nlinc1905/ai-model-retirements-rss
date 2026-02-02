@@ -38,9 +38,9 @@ python scrape_ms_openai_retirements.py --only text
 
 ## Outputs
 
-- **CSV:**    `/mnt/data/ms_model_retirements/output/current_models.csv`
-- **RSS:**    `/mnt/data/ms_model_retirements/output/rss.xml`
-- **State:**  `/mnt/data/ms_model_retirements/data/snapshot.json`
+- **CSV:**    `/mnt/data/ms_model_retirements/output/openai/current_models.csv`
+- **RSS:**    `/mnt/data/ms_model_retirements/output/openai/rss.xml`
+- **State:**  `/mnt/data/ms_model_retirements/data/openai/snapshot.json`
 
 ## Notes
 
@@ -54,9 +54,9 @@ python scrape_ms_openai_retirements.py --only text
 Add this file to your repo: `.github/workflows/retirements.yml` (included here). It runs the scraper twice per day
 (06:00 and 18:00 UTC), then commits any changes to:
 
-- `output/current_models.csv`
-- `output/rss.xml`
-- `data/snapshot.json`
+- `output/openai/current_models.csv`
+- `output/openai/rss.xml`
+- `data/openai/snapshot.json`
 
 Make sure your repository settings allow workflows to create commits:
 

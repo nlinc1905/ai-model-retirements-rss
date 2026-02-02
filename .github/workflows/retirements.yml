@@ -39,17 +39,17 @@ jobs:
 
       - name: Run scraper
         run: |
-          uv run scrape_ms_retirements.py
+          uv run scrape_ms_openai_retirements.py
 
       - name: Publish rss.xml for GitHub Pages
         run: |
           mkdir -p docs
-          cp output/rss.xml docs/rss.xml
+          cp output/openai/rss.xml docs/openai/rss.xml
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/rss.xml
-          if [[ -n "$(git status --porcelain docs/rss.xml)" ]]; then
-            git commit -m "chore: publish rss.xml to docs/ for Pages [skip ci]"
+          git add docs/openai/rss.xml
+          if [[ -n "$(git status --porcelain docs/openai/rss.xml)" ]]; then
+            git commit -m "chore: publish rss.xml to docs/openai/ for Pages [skip ci]"
             git push
           fi
 
