@@ -31,9 +31,9 @@ pip install -r requirements.txt
 ## Run
 
 ```bash
-python scrape_ms_retirements.py
+python scrape_ms_openai_retirements.py
 # Or focus only on Text models:
-python scrape_ms_retirements.py --only text
+python scrape_ms_openai_retirements.py --only text
 ```
 
 ## Outputs

@@ -14,9 +14,9 @@ First run: creates a baseline snapshot; RSS will include a single "Baseline crea
 Subsequent runs: RSS includes entries for new/changed rows only.
 
 Usage:
-  python scrape_ms_retirements.py
-  python scrape_ms_retirements.py --only text        # (optional) focus on text only
-  python scrape_ms_retirements.py --outdir ./out     # change output dir
+  python scrape_ms_openai_retirements.py
+  python scrape_ms_openai_retirements.py --only text        # (optional) focus on text only
+  python scrape_ms_openai_retirements.py --outdir ./out     # change output dir
 """
 import argparse
 import csv
