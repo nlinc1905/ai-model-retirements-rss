@@ -4,9 +4,9 @@ on:
   push:
     branches:
       - azure-claude-aws
-  # schedule:
-  #   # Midnight EST = 05:00 UTC
-  #   - cron: "0 5 * * *"
+  schedule:
+    # Midnight EST = 05:00 UTC
+    - cron: "0 5 * * *"
   workflow_dispatch:
 
 jobs:
