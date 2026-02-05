@@ -9,6 +9,9 @@ on:
     - cron: "0 5 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write  # Allow pushing updated RSS feed to the repository
+
 jobs:
   scrape-and-publish:
     runs-on: ubuntu-latest
