@@ -396,8 +396,8 @@ if __name__ == "__main__":
         print("No changes detected.")
         raise SystemExit(0)
 
-    changes_csv = "all_model_retirements_changes.csv"
+    changes_csv = OUTPUT_PATH + "/" + "model_retirements_changes.csv"
     write_csv(changes, changes_csv)
-    write_rss(changes, "rss.xml")
+    write_rss(all_rows, OUTPUT_PATH + "/" + "rss.xml")
 
     print(f"Wrote {len(changes)} changed rows to {changes_csv} and updated rss.xml")
