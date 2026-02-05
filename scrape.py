@@ -19,7 +19,7 @@ AZURE_URL = "https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/
 OUTPUT_PATH = "output"
 OUTPUT_CSV = "model_retirements.csv"
 
-GITHUB_PAGES_LINK = "https://nlinc1905.github.io/azure-ai-model-retirements-rss/rss.xml"
+GITHUB_PAGES_LINK = "https://nlinc1905.github.io/ai-model-retirements-rss/rss.xml"
 
 DATE_SUFFIX_RE = re.compile(r"-\d{8}$")
 CLAUDE_DATE_RE = re.compile(r"([A-Za-z]+)\s+(\d{1,2}),\s+(\d{4})")
