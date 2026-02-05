@@ -11,7 +11,7 @@ Scrapes the following pages every day at midnight EST:
 * https://docs.aws.amazon.com/bedrock/latest/userguide/model-lifecycle.html
 * https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements
 
-Publishes an RSS feed at https://nlinc1905.github.io/azure-ai-model-retirements-rss/rss.xml
+Publishes an RSS feed at https://nlinc1905.github.io/ai-model-retirements-rss/rss.xml
 
 ## How to Run
 
