@@ -33,10 +33,10 @@ jobs:
 
       - name: Commit updated RSS
         run: |
-          if [ -f rss.xml ]; then
+          if [ -f output/rss.xml ]; then
             git config user.name "github-actions"
             git config user.email "github-actions@github.com"
-            git add rss.xml model_retirements.csv model_retirements_changes.csv || true
+            git add output/rss.xml output/model_retirements.csv output/model_retirements_changes.csv || true
             git commit -m "Update model retirement RSS feed" || exit 0
             git push
           fi
