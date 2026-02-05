@@ -3,7 +3,7 @@ name: Get Model Retirements
 on:
   push:
     branches:
-      - azure-claude-aws
+      - main
   schedule:
     # Midnight EST = 05:00 UTC
     - cron: "0 5 * * *"
