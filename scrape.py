@@ -16,7 +16,10 @@ CLAUDE_URL = "https://platform.claude.com/docs/en/about-claude/model-deprecation
 AWS_URL = "https://docs.aws.amazon.com/bedrock/latest/userguide/model-lifecycle.html"
 AZURE_URL = "https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements"
 
-OUTPUT_CSV = "all_model_retirements.csv"
+OUTPUT_PATH = "output"
+OUTPUT_CSV = "model_retirements.csv"
+
+GITHUB_PAGES_LINK = "https://nlinc1905.github.io/azure-ai-model-retirements-rss/"
 
 DATE_SUFFIX_RE = re.compile(r"-\d{8}$")
 CLAUDE_DATE_RE = re.compile(r"([A-Za-z]+)\s+(\d{1,2}),\s+(\d{4})")
@@ -260,11 +263,9 @@ def scrape_azure() -> List[Dict[str, str]]:
 
     return deduplicate_rows(rows)
 
-
 ###############################################################################
 # RSS functions
 ###############################################################################
-
 
 def write_rss(rows: List[Dict[str, str]], path: str) -> None:
     """
@@ -274,7 +275,7 @@ def write_rss(rows: List[Dict[str, str]], path: str) -> None:
     channel = ET.SubElement(rss, "channel")
 
     ET.SubElement(channel, "title").text = "AI Model Retirement Updates"
-    ET.SubElement(channel, "link").text = "https://your-username.github.io/your-repo/"
+    ET.SubElement(channel, "link").text = GITHUB_PAGES_LINK
     ET.SubElement(channel, "description").text = (
         "Updates to retirement dates and replacements for AI foundation models "
         "from Claude, AWS Bedrock, and Azure OpenAI."
@@ -309,11 +310,9 @@ def write_rss(rows: List[Dict[str, str]], path: str) -> None:
     tree = ET.ElementTree(rss)
     tree.write(path, encoding="utf-8", xml_declaration=True)
 
-
 ###############################################################################
 # Main
 ###############################################################################
-
 
 def load_existing_csv(path: str) -> Dict[tuple, Dict[str, str]]:
     """
@@ -380,17 +379,17 @@ if __name__ == "__main__":
     if not all_rows:
         raise RuntimeError("No data scraped — page structures may have changed.")
 
-    output_path = Path(OUTPUT_CSV)
+    output_path = Path(OUTPUT_PATH + "/" + OUTPUT_CSV)
 
     # First run: no existing file
     if not output_path.exists():
-        write_csv(all_rows, OUTPUT_CSV)
-        write_rss(all_rows, "rss.xml")
-        print(f"Wrote {len(all_rows)} rows to {OUTPUT_CSV} and initial rss.xml")
+        write_csv(all_rows, OUTPUT_PATH + "/" + OUTPUT_CSV)
+        write_rss(all_rows, OUTPUT_PATH + "/" + "rss.xml")
+        print(f"Wrote {len(all_rows)} rows to {OUTPUT_PATH + "/" + OUTPUT_CSV} and initial rss.xml")
         raise SystemExit(0)
 
     # Subsequent runs: diff against existing data
-    existing = load_existing_csv(OUTPUT_CSV)
+    existing = load_existing_csv(OUTPUT_PATH + "/" + OUTPUT_CSV)
     changes = diff_rows(all_rows, existing)
 
     if not changes:
