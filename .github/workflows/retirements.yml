@@ -34,12 +34,39 @@ jobs:
         run: |
           python scrape.py
 
+      - name: Create index.html for GitHub Pages
+        run: |
+          cat > output/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>AI Model Retirements RSS Feed</title>
+            <style>
+              body { font-family: system-ui, -apple-system, sans-serif; max-width: 600px; margin: 50px auto; padding: 20px; }
+              a { color: #0366d6; }
+            </style>
+          </head>
+          <body>
+            <h1>AI Model Retirements RSS Feed</h1>
+            <p>Subscribe to this feed to get updates on AI model retirements from Azure, AWS, and Anthropic Claude.</p>
+            <p><strong>RSS Feed URL:</strong> <a href="rss.xml">https://nlinc1905.github.io/ai-model-retirements-rss/rss.xml</a></p>
+            <p>Copy the link above to add it to your RSS reader, or download the data in CSV form using the link below.</p>
+            <p><strong>CSV URL:</strong> <a href="model_retirements.csv">https://nlinc1905.github.io/ai-model-retirements-rss/model_retirements.csv</a></p>
+          </body>
+          </html>
+          EOF
+
       - name: Commit updated RSS
         run: |
           if [ -f output/rss.xml ]; then
             git config user.name "github-actions"
             git config user.email "github-actions@github.com"
-            git add output/rss.xml output/model_retirements.csv output/model_retirements_changes.csv || true
+            git add output/rss.xml output/model_retirements.csv
+            if [ -f output/model_retirements_changes.csv ]; then
+              git add output/model_retirements_changes.csv
+            fi
             git commit -m "Update model retirement RSS feed" || exit 0
             git push
           fi
