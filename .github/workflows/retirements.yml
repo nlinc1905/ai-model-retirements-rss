@@ -1,67 +1,51 @@
-name: Azure OpenAI Retirements Watcher
+name: Get Model Retirements
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    # Twice per day at 06:00 and 18:00 UTC
-    - cron: "0 6,18 * * *"
-  workflow_dispatch: {}
+    # Midnight EST = 05:00 UTC
+    - cron: "0 5 * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write  # Allow pushing updated RSS feed to the repository
 
 jobs:
-  run:
+  scrape-and-publish:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Cache uv venv
-        uses: actions/cache@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          path: .venv
-          key: ${{ runner.os }}-uv-${{ hashFiles('requirements.txt') }}
+          python-version: "3.12"
 
-      - name: Install uv
+      - name: Install dependencies
         run: |
-          curl -LsSf https://astral.sh/uv/install.sh | sh
-          echo "$HOME/.cargo/bin" >> $GITHUB_PATH
-          echo "$HOME/.local/bin" >> $GITHUB_PATH
-          echo "$HOME/.rye/shims" >> $GITHUB_PATH
-          echo "$HOME/.local/share/uv/bin" >> $GITHUB_PATH || true
-          # Ensure uv on PATH
-          echo "$(which uv || true)"
-      
-      - name: Create venv & install deps
-        run: |
-          uv venv .venv
-          uv pip install -r requirements.txt
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Run scraper
         run: |
-          uv run scrape_ms_retirements.py
+          python scrape.py
 
-      - name: Publish rss.xml for GitHub Pages
+      - name: Commit updated RSS
         run: |
-          mkdir -p docs
-          cp output/rss.xml docs/rss.xml
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/rss.xml
-          if [[ -n "$(git status --porcelain docs/rss.xml)" ]]; then
-            git commit -m "chore: publish rss.xml to docs/ for Pages [skip ci]"
+          if [ -f output/rss.xml ]; then
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
+            git add output/rss.xml output/model_retirements.csv output/model_retirements_changes.csv || true
+            git commit -m "Update model retirement RSS feed" || exit 0
             git push
           fi
 
-      - name: Commit changes (if any)
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # Add the outputs and snapshot so diffs persist across runs
-          git add -A output data || true
-          if [[ -n "$(git status --porcelain output data)" ]]; then
-            git commit -m "chore: update retirements CSV/RSS snapshot [skip ci]"
-            git push
-          else
-            echo "No changes to commit."
-          fi
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
