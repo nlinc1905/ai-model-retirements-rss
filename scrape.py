@@ -291,14 +291,14 @@ def write_rss(rows: List[Dict[str, str]], path: str) -> None:
         ET.SubElement(item, "title").text = title
 
         description = (
-            f"Source: {row['source']}\n"
-            f"Model: {row['model_name']}\n"
+            f"Source: {row['source']}|"
+            f"Model: {row['model_name']}|"
             f"Retirement date: {row['retirement_date']}"
         )
 
         if row.get("recommended_replacement"):
             description += (
-                f"\nRecommended replacement: {row['recommended_replacement']}"
+                f"|Recommended replacement: {row['recommended_replacement']}"
             )
 
         ET.SubElement(item, "description").text = description
