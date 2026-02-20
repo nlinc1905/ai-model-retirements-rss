@@ -1,3 +1,4 @@
 source,model_name,retirement_date,recommended_replacement
 https://platform.claude.com/docs/en/about-claude/model-deprecations,claude-sonnet-4-6,2027-02-17,
+https://platform.claude.com/docs/en/about-claude/model-deprecations,claude-3-haiku,2026-04-20,claude-haiku-4-5
 https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements,dall-e-3,2026-03-04,gpt-image-1-mini
