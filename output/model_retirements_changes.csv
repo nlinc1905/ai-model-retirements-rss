@@ -1,6 +1,7 @@
 source,model_name,retirement_date,recommended_replacement
 https://platform.claude.com/docs/en/about-claude/model-deprecations,claude-sonnet-4-6,2027-02-17,
 https://platform.claude.com/docs/en/about-claude/model-deprecations,claude-3-haiku,2026-04-20,claude-haiku-4-5
+https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements,gpt-5-chat,2026-04-15,gpt-5.2-chat
 https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements,gpt-4o-audio-preview,2026-03-24,gpt-audio
 https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements,gpt-4o-realtime-preview,2026-03-24,gpt-realtime
 https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements,gpt-4o-mini-audio-preview,2026-03-24,
@@ -13,4 +14,5 @@ https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirem
 https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements,whisper,2026-06-18,
 https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements,gpt-realtime-1.5-2026-02-23,2027-02-23,
 https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements,gpt-audio-1.5-2026-02-23,2027-02-23,
-https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements,dall-e-3,2026-03-04,gpt-image-1-mini
+https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements,dall-e-3,2026-03-04,gpt-image-1.5
+https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/model-retirements,gpt-image-1,2026-03-31,gpt-image-1.5
